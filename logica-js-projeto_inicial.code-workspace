@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "D:/ESTUDOS/PROGRMAÇÃO/LOGICA DE PROGRAMAÇÃO/logica-js-projeto_inicial"
+		},
+		{
+			"path": "../../Documents/js-curso-2-aula_5/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "img"
+	}
+}
